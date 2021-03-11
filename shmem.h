@@ -1,0 +1,9 @@
+#define ByteSize 512
+#define BackingFile "/shMemEx"
+#define AccessPerms 0644
+#define SemaphoreName "mysemaphore"
+#define SemaphoreName2 "mysemaphore2"
+#define SemaphoreName3 "mysemaphore3"
+#define MAX_MSG 5
+#define MemContents "Tesciorki\n"
+#define MAX_LIMIT 20 
